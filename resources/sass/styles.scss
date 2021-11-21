@@ -1,0 +1,81 @@
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif!important;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.bg-home {
+    background-image: url('../images/Imagen-inicio.png');
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.logo-home {
+    max-width: 15%;
+}
+
+.pl-home {
+    padding-left: 170px;
+    padding-top: 55px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    padding-inline-start: 5px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #666666;
+    font-weight: 400;
+    font-size: .85rem;
+    font-family: 'Montserrat', sans-serif!important;
+}
+
+.nav-link:active, .nav-link:hover {
+    font-weight: 700;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif!important;
+}
+
+.nav-item {
+    padding-bottom: 20px;
+}
+
+.logo-instagram, .logo-facebook {
+    max-width: 2.3%;
+}
+
+.logo-facebook {
+    padding-bottom: 1px;
+}
+
+.btn-turnos {
+    position: absolute;
+    bottom: 20px;
+    right: 75px;
+    max-width: 15%;
+}
+

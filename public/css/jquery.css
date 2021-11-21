@@ -1,0 +1,1595 @@
+@media screen and (max-width: 991px) {
+    .container-f {
+        width: 80%!important;
+        padding-right: 15px;
+        padding-left: 15px!important;
+    }
+
+    .bg-home {
+        background-image: url('../images/Imagen-Inicio-edit.png');
+        background-position: center center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .bg-servicios-pag {
+        background-image: url('../images/Fondo-Pagina-Servicios.jpg');
+        background-position: 50% 50%;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .logo-home {
+        max-width: 25%;
+    }
+
+    .img-circulo-md {
+        max-width: 65%;
+    }
+
+    .pl-75 {
+        padding-left: 50px;
+        padding-right: 0px;
+    }
+
+    .pl-750 {
+        padding-left: 35px;
+    }
+
+    .pl-trat {
+        padding-left: 20px;
+    }
+
+    .logo-instagram, .logo-facebook {
+        max-width: 4%;
+    }
+
+    .btn-turnos {
+        position: absolute;
+        bottom: 20px;
+        right: 20px;
+        max-width: 20%;
+        display: block;
+    }
+
+    .pl-155 {
+        padding-left: 30px;
+    }
+
+    .p-100 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    .pt-30 {
+        padding-top: 70px;
+    }
+
+    .pb-30 {
+        padding-bottom: 50px;
+    }
+
+    .menu-flotante {
+        top: 53px;
+        left: 10px;
+    }
+
+    .logo-menu-flotante {
+        max-width: 50px;
+        margin-left: 9px;
+        margin-right: 10px;
+        margin-top: 15px;
+    }
+
+    .navbar-toggler {
+        margin-left: 13px;
+    }
+
+    .sidenav {
+        left: 65px;
+    }
+
+    .pb-nos {
+        padding-bottom: 0rem;
+    }
+
+    .menu-flotante-nos {
+        top: 0px!important;
+        left: 0px;
+    }
+
+    .menu-flotante-nos-perfiles {
+        top: 0px!important;
+        left: 15px;
+    }
+
+    .menu-flotante-nos-cel {
+        top: 30px!important;
+        left: 0px;
+    }
+
+    .menu-flotante-nos-perfiles-cel {
+        top: 30px!important;
+        left: 15px;
+    }
+
+    .bg-perfil-1, .bg-perfil-2 {
+        font-size: .8rem;
+        padding: 35px 30px 35px 25px;
+    }
+
+    .texto-nosotros {
+        overflow-y: auto;
+        max-height: 250px;
+    }
+
+    .item-padding {
+        padding-bottom: 10px;
+    }
+
+    .img-iconos {
+        max-width: 65px;
+    }
+
+    .boton-wh {
+        max-width: 50px;
+        position: absolute;
+        right: 10px;
+        top: 88px;
+    }
+
+    .boton-wh-serv {
+        max-width: 55px;
+        position: absolute;
+        right: 10px;
+        top: 20px;
+    }
+
+    .boton-wh-trat {
+        max-width: 55px;
+        position: absolute;
+        right: 10px;
+        top: 20px;
+    }
+
+    .p-serv {
+        padding-top: 65px;
+        padding-bottom: 0px;
+    }
+
+    .p-trat {
+        padding-top: 65px;
+        padding-bottom: 0px;
+    }
+
+    .pl-755 {
+        padding-left: 0px;
+    }
+
+    .bg-trat-1 {
+        background-size: cover;
+    }
+
+    .bg-trat-2 {
+        background-size: cover;
+    }
+
+    .bg-trat-3 {
+        background-size: cover;
+    }
+
+    .bg-trat-4 {
+        background-size: cover;
+    }
+
+    .bg-trat-5 {
+        background-size: cover;
+    }
+
+    .bg-trat-6 {
+        background-size: cover;
+    }
+
+    .bg-trat-7 {
+        background-size: cover;
+    }
+
+    .bg-trat-8 {
+        background-size: cover;
+    }
+
+    .font-titulo-trat {
+        font-size: 4rem;
+    }
+
+    .p-80 {
+        padding-top: 85px;
+        padding-bottom: 85px;
+    }
+
+    h1 {
+        line-height: .9;
+    }
+
+    .titulo-nos {
+        color: #fff;
+        font-size: 4.5rem;
+    }
+
+    .nav-link-trat {
+        font-size: .8rem;
+    }
+
+    .nav-link-servicios {
+        font-size: .8rem;
+    }
+
+    .img-iconos-t {
+        max-width: 55px;
+    }
+
+    .titulo-serv {
+        font-size: 4.5rem;
+    }
+
+    .texto-servicios {
+        max-height: 410px;
+    }
+
+    .p-notas {
+        padding-top: 65px;
+    }
+
+    .font-titulo-notas {
+        font-size: 1.8rem;
+    }
+
+    .pl-notas {
+        padding-left: 0px;
+        margin-top: 10px;
+    }
+
+    .titulos-notas {
+        font-size: 4.5rem;
+    }
+
+    .boton-wh-notas {
+        max-width: 55px;
+        top: 20px;
+    }
+
+    .modal-dialog {
+        max-width: 465px;
+        margin-left: 7rem;
+    }
+
+    .modal {
+        top: -20px;
+    }
+
+    .carousel-item-inicio {
+        background: #a6bdd2;
+        min-height: 365px!important;
+        color: #fff;
+    }
+
+    .carousel-caption-inicio {
+        right: 12%!important;
+        left: 12%!important;
+    }
+
+    .pl-banner {
+        padding-left: 15px!important;
+    }
+
+    .slogan {
+        max-width: 250px;
+        position: absolute;
+        top: 40%;
+        left: 30%;
+    }
+
+}
+
+
+@media screen and (max-width: 767px) {
+    .container-f {
+        width: 80%!important;
+        padding-right: 15px;
+        padding-left: 30px!important;
+    }
+
+    .full-height {
+        min-height: auto;
+        height: 100%!important;
+    }
+    .pl-75 {
+        padding-left: 20px;
+        padding-right: 0px;
+    }
+
+    .pl-750 {
+        padding-left: 25px;
+    }
+
+    .pl-trat {
+        padding-left: 20px;
+    }
+
+    .pt-30 {
+        padding-top: 60px;
+    }
+
+    .pb-30 {
+        padding-bottom: 60px;
+    }
+
+    .item-padding {
+        padding-bottom: 0px;
+    }
+
+    .p-100 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    .texto-nosotros {
+        overflow-y: auto;
+        max-height: 190px;
+    }
+
+    .p-80 {
+        padding-top: 66px;
+        padding-bottom: 65px;
+    }
+
+    .pl-30 {
+        padding-left: 15px;
+    }
+
+    .font-titulo-trat {
+        font-size: 3rem;
+    }
+
+    .boton-wh-serv {
+        max-width: 50px;
+        position: absolute;
+        right: 10px;
+        top: 20px;
+    }
+
+    .boton-wh-trat {
+        max-width: 50px;
+        position: absolute;
+        right: 10px;
+        top: 20px;
+    }
+
+    .logo-instagram, .logo-facebook {
+        max-width: 6%;
+    }
+
+    .titulo-nos {
+        color: #fff;
+        font-size: 3.5rem;
+    }
+
+    .nav-link {
+        font-size: .8rem;
+    }
+
+    .mtop-4 {
+        margin-top: 0rem!important;
+    }
+
+    h1 {
+        line-height: .9;
+    }
+
+    .p-70 {
+        padding-top: 70px;
+        padding-bottom: 170px;
+    }
+
+    .p-serv {
+        padding-top: 75px;
+        padding-bottom: 0px;
+    }
+ 
+    .bg-serv-1 {
+        padding: 75px 25px 50px 35px;
+        font-size: .75rem;
+    }
+
+    .bg-serv-2 {
+        padding: 75px 25px 50px 35px;
+        font-size: .75rem;
+    }
+
+    .bg-serv-3 {
+        padding: 75px 25px 50px 35px;
+        font-size: .75rem;
+    }
+
+    .bg-serv-4 {
+        padding: 75px 25px 50px 35px;
+        font-size: .75rem;
+    }
+
+    .bg-serv-5 {
+        padding: 75px 25px 50px 35px;
+        font-size: .75rem;
+    }
+
+    .bg-serv-6 {
+        padding: 75px 25px 50px 35px;
+        font-size: .75rem;
+    }
+
+    .bg-serv-8 {
+        padding: 75px 25px 50px 35px;
+        font-size: .75rem;
+    }
+
+    .bg-serv-9 {
+        padding: 75px 25px 50px 35px;
+        font-size: .75rem;
+    }
+
+    .bg-servicios-pag {
+        background-image: url('../images/Fondo-Pagina-Servicios.jpg');
+        background-position: 50% 50%;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .texto-servicios {
+        max-height: 410px;
+    }
+
+    .titulo-serv {
+        font-size: 3.5rem;
+    }
+
+    .nav-link-servicios {    
+       font-size: .65rem;
+       margin-left: 5px;
+    }
+
+    .nav-link-trat {
+       font-size: .65rem;
+       margin-left: 0px;
+    }
+
+    .img-iconos {
+        max-width: 45px;
+        max-height: 45px;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+
+    .p-trat {
+        padding-top: 75px;
+        padding-bottom: 0px;
+    }
+
+    .img-iconos-t {
+        max-width: 53px;
+        max-height: 53px;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+
+    .titulo-submenu {
+        font-size: .9rem;
+    }
+
+    .submenu {
+        font-size: .8rem;
+    }
+
+    .submenu-active {
+        font-size: .8rem;
+    }
+
+    .volver {
+        font-size: .8rem;
+    }
+
+    .volver-cel {
+        font-size: .75rem;
+    }
+
+    .flecha {
+        max-width: 22px;
+    }
+
+    .div-flecha {
+        position: absolute;
+        bottom: 50px;
+        left: 25px;
+        width: 110px;
+    }
+
+    .p-notas {
+        padding-top: 75px;
+    }
+
+    .font-titulo-notas {
+        font-size: 1.6rem;
+    }
+
+    .pl-notas {
+        padding-left: 3px;
+        margin-top: 10px;
+    }
+
+    .titulos-notas {
+        font-size: 3.5rem;
+        margin-top: -2px;
+    }
+
+    .boton-wh-notas {
+        max-width: 50px;
+        top: 20px;
+    }
+
+    .modal {
+        top: -40px;
+    }
+
+    .p-modal {
+        margin-bottom: .3rem;
+        font-size: 13px;
+        color: #6a7565;
+    }
+
+    .sidenav {
+        height: 290px;
+        width: 235px;
+    }
+
+    .sidenav a {
+        padding: 0px 0px 5px 40px;
+        text-decoration: none;
+        color: #666666;
+        display: block;
+        transition: 0.3s;
+        font-size: .75rem;
+    }
+
+    .height-menu-open {
+        height: 290px;
+    }
+
+    .mt-titulo-open {
+        margin-top: -330px!important;
+    }
+
+    .mt-titulo-closed {
+        margin-top: -165px!important;
+    }
+
+    .logo-instagram-menu, .logo-facebook-menu {
+        max-width: 35%;
+    }
+
+    .text-carousel {
+        font-size: 0.85rem;
+    }
+
+    .carousel-caption-inicio {
+        position: absolute;
+        right: 15%!important;
+        top: 0px;
+        left: 15%!important;
+        z-index: 10!important;
+        padding-top: 35px;
+        padding-bottom: 35px;
+        color: #fff;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .carousel-item-inicio {
+        background: #a6bdd2;
+        min-height: 390px!important;
+        color: #fff;
+    }
+
+    .btn-wh {
+        max-width: 55px;
+    }
+
+    .btn-wh-cel {
+        max-width: 45px;
+    }
+
+    .boton-wh-fixed {
+        position: absolute;
+        right: 70px;
+        bottom: 70px;
+        z-index: 10000;
+        display: block;
+    }
+
+    .mb-wh {
+        margin-bottom: 140px;
+    }
+
+    .pl-banner {
+        padding-left: 30px!important;
+    }
+
+    .mp-quienes-somos {
+        margin-top: 0px;
+        padding-top: 75px;
+    }
+
+    .bg-quienes-somos {
+        background-image: url('../images/Fondo-Quienes-Somos.jpg');
+        background-position: left top;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    ul {
+        margin-top: 30px;
+        padding-bottom: .5rem;
+    }
+
+    .slogan {
+        max-width: 50%;
+        position: relative;
+        top: 25%;
+        left: 0%;
+        display: inline-block;
+    }
+
+    .logo-home {
+        max-width: 25%;
+        padding-bottom: 30px;
+    }
+    
+}
+
+
+@media screen and (max-width: 576px) {
+    .container-f-cel {
+        width: 95%!important;
+    }
+
+    /* .list-active-1 {
+        list-style-type: disc;
+        background: #93a9c600!important;
+        padding: 5px 0px 5px 5px;
+    } */
+
+    .bg-serv-1 {
+        max-height: 100vh!important;
+    }
+
+    .container-f {
+        width: 80%!important;
+        padding-right: 15px;
+        padding-left: 40px!important;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .pl-75 {
+        padding-left: 20px;
+        padding-right: 0px;
+    }
+
+    .pl-trat {
+        padding-left: 20px;
+    }
+
+    .img-circulo {
+        max-width: 65%;
+    }
+
+    .bg-home {
+        background-image: url('../images/Inicio-Cel-Fondo.jpg');
+        background-position: 40% center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .logo-home {
+        max-width: 40%;
+        padding-bottom: 30px;
+    }
+
+    .pl-banner {
+        padding-left: 15px!important;
+    }
+
+    .btn-turnos {
+        position: absolute;
+        bottom: 20px;
+        right: 20px;
+        max-width: 35%;
+        display: none;
+    }
+
+    .border-footer {
+        border-right: 0px solid #fff;
+        padding-right: 0px;
+    }
+
+    .text-footer {
+        color: #fff;
+        font-size: .8rem;
+        margin-top: 8px;
+        margin-bottom: 8px;
+        text-align: left;
+    }
+
+    .container-footer {
+        padding-left: 40px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-align: left;
+    }
+
+    .bg-footer {
+        background: #666666;
+        position: absolute;
+        bottom: 107px;
+        width: 100%;
+    }
+
+    .pb-btn-footer {
+        padding-bottom: 85px;
+    }
+
+    .img-footer-whatsapp {
+        max-width: 20px;
+        margin-right: 4px;
+        margin-left: 0px;
+    }
+
+    .img-footer-ubicacion {
+        max-width: 15px;
+        margin-right: 6px;
+        margin-left: 2px;
+    }
+
+    .logo-spuches {
+        max-width: 175px;
+        padding-left: 10px;
+    }
+
+    .bg-servicios {
+        background-image: url('../images/Fondo-Servicios-Inicio-Celular.jpg');
+        background-position: left bottom;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .bg-servicios-pag {
+        background-image: url('../images/Fondo-Servicios-Inicio-Celular.jpg');
+        background-position: 50% 50%;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .bg-tratamientos {
+        background-image: url('../images/Fondo-Tratamientos-Inicio-Celular.jpg');
+        background-position: left bottom;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .full-height {
+        min-height: 100vh!important;
+    }
+
+    .titulos {
+        font-size: 3.7rem;
+    }
+
+    .div-footer {
+        display: block;
+    }
+
+    .boton-enviar {
+        max-width: 60px;
+        padding-top: 0px;
+        margin-left: 20px;
+        float: right;
+    }
+
+    .logo-instagram, .logo-facebook {
+        max-width: 7%;
+    }
+
+    .nav-link {
+        font-size: .85rem;
+        padding: .4rem 0.1rem!important;
+    }
+
+    .nav-item-nos {
+        padding-bottom: 0px;
+    }
+
+    .mt-35 {
+        padding-bottom: .5rem;
+    }
+
+    .items {
+        font-size: .75rem;
+        padding-inline-start: 5px;
+        padding: 0.4rem 0.1rem 1rem 0.1rem;
+    }
+
+    .items-s {
+        font-size: .75rem;
+        padding-inline-start: 5px;
+        padding: 0.4rem 0.1rem 1rem 0.1rem;
+    }
+
+    .items-t {
+        font-size: .75rem;
+        padding-inline-start: 5px;
+        padding: 0.4rem 0.1rem 1rem 0.1rem;
+    }
+
+    ul {
+        margin-top: 30px;
+        margin-bottom: 10px;
+        padding-bottom: .5rem;
+    }
+    .p-120 {
+        padding-top: 60px;
+        padding-bottom: 90px;
+    }
+
+    h1 {
+        line-height: .9;
+    }
+
+    .p-70 {
+        padding-top: 70px;
+        padding-bottom: 170px;
+    }
+
+    .modal-dialog {
+        max-width: 340px;
+        margin-left: 6rem;
+    }
+
+    .p-modal {
+        margin-bottom: .3rem;
+        font-size: 13px;
+        color: #6a7565;
+    }
+
+    .slogan {
+        max-width: 50%;
+        position: relative;
+        top: 25%;
+        left: 0%;
+        display: inline-block;
+    }
+
+    .pl-home {
+        padding-top: 35px;
+    }
+
+    .pb-home-menu {
+        padding-bottom: 2rem;
+        padding-left: 0px;
+    }
+
+    .boton-wh-fixed {
+        display: none!important;
+    }
+
+    .boton-wh-cel {
+        display: block!important;
+    }
+
+    .mt-menu-flotante {
+        margin-top: 40px!important;
+    }
+
+    .mt-titulo-closed {
+        margin-top: -155px!important;
+    }
+
+    .mt-titulo-open {
+        margin-top: -330px!important;
+    }
+
+    .sidenav {
+        left: 62px;
+        height: 290px;
+        width: 238px;
+    }
+
+    .height-menu-open {
+        height: 290px;
+    }
+
+    .mp-quienes-somos {
+        margin-top: 0px;
+        padding-top: 70px;
+    }
+
+    .carousel-caption-inicio {
+        left: 17%!important;
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .carousel-item-inicio {
+        min-height: 100vh!important;
+    }
+
+    .carousel-item-cel {
+        min-height: 375px!important;
+    }
+
+    .text-carousel {
+        font-size: 0.9rem;
+    }
+
+    .menu-flotante {
+        top: 53px;
+        left: 0px;
+    }
+
+    .logo-menu-flotante {
+        max-width: 45px;
+        margin-left: 9px;
+        margin-right: 9px;
+        margin-top: 15px;
+    }
+
+    .navbar-toggler {
+        margin-left: 7px;
+    }
+
+    .height-menu-closed {
+        height: 115px;
+    }
+
+    .btn-wh-cel {
+        max-width: 45px;
+    }
+
+    .btn-wh-cel-secciones {
+        max-width: 45px;
+    }
+
+    .pl-155 {
+        padding-left: 100px;
+    }
+
+    .pt-30 {
+        padding-top: 45px;
+    }
+
+    .texto-nosotros {
+        overflow-y: auto;
+        min-height: 300px;
+    }
+
+    .texto-servicios {
+        height: 300px;
+    }
+
+    .bg-perfil-1, .bg-perfil-2 {
+        font-size: .8rem;
+        padding: 40px 40px 50px 100px;
+    }
+
+    .bg-serv-1, .bg-serv-2, .bg-serv-3, .bg-serv-4, .bg-serv-5, .bg-serv-6,
+    .bg-serv-7, .bg-serv-8, .bg-serv-9 {
+        padding: 40px 30px 50px 76px;
+    }
+
+    .flecha-cel {
+        max-width: 17px;
+    }
+
+    .flecha-cel-texto {
+        max-width: 23px;
+    }
+
+    .div-flecha-cel {
+        position: absolute;
+        bottom: 20px;
+        left: 100px;
+        width: 110px;
+    }
+
+    .div-flecha-cel-serv {
+        position: absolute;
+        bottom: 60px;
+        left: 76px;
+        width: 110px;
+    }
+
+    .div-flecha-cel-trat {
+        position: absolute;
+        bottom: 30px;
+        left: 80px;
+        width: 110px;
+    }
+
+    .div-flecha-cel-texto {
+        position: absolute;
+        bottom: 65px;
+        right: 60px;
+    }
+
+    .div-flecha-cel-texto-trat {
+        position: absolute;
+        bottom: 65px;
+        right: 35px;
+    }
+
+    .texto-nosotros::-webkit-scrollbar {
+        width: 7px;
+    }
+
+    .texto-servicios::-webkit-scrollbar {
+        width: 7px;
+    }
+
+    .texto-items::-webkit-scrollbar {
+        width: 7px;
+    }
+
+    .ul-lista-tratamientos {
+        padding-bottom: 1rem!important;
+        padding-left: 1.5rem!important;
+        margin-top: 0px;
+    }
+
+    .boton-wh-cel-perfiles {
+        position: absolute;
+        left: 15px;
+        top: 10%;
+        z-index: 10000;
+        display: none;
+    }
+
+    .bg-servicios-pag {
+        background-image: url('../images/Fondo-Servicios-Pagina-Celular.jpg');
+        background-position: left bottom;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .modal {
+        position: fixed;
+        top: 22px;
+        left: 70px;
+        z-index: 1050;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        outline: 0;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .modal-content {
+        width: 80%;
+    }
+
+    .pl-750 {
+        padding-left: 125px;
+    }
+
+    .pl-20 {
+        padding-left: 125px;
+    }
+
+    .img-iconos {
+        max-width: 45px;
+        max-height: 45px;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+
+    .img-iconos-t {
+        max-width: 45px;
+        max-height: 45px;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+
+    .p-serv {
+        padding-top: 45px;
+        padding-bottom: 250px;
+    }
+
+    .boton-wh-cel-serv {
+        position: absolute;
+        left: 0px;
+        top: 330px;
+        z-index: 10000;
+        display: none;
+    }
+
+    .boton-wh-cel-trat {
+        position: absolute;
+        left: 0px;
+        top: 330px;
+        z-index: 10000;
+        display: none;
+    }
+
+    .boton-wh-cel-trat-1 {
+        position: absolute;
+        left: 0px;
+        top: 375px;
+        z-index: 10000;
+        display: none;
+    }
+
+    .bg-tratamientos-pag {
+        background-image: url('../images/Fondo-Tratamientos-Pagina-Celular.jpg');
+        background-position: left bottom;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .p-trat {
+        padding-top: 45px;
+        padding-bottom: 250px;
+    }
+
+    .nav-link-servicios {
+        margin-left: 10px;
+    }
+
+    .nav-link-trat {
+        margin-left: 10px;
+    }
+
+    .font-titulo-trat {
+        font-size: 3.8rem;
+    }
+
+    .modal-div-texto {
+        max-height: 75vh;
+        overflow-y: auto;
+    }
+
+    .titulo-submenu {
+        font-size: 1.2rem;
+    }
+
+    .titulo-submenu-active {
+        font-weight: 600;
+    }
+
+    .submenu {
+        font-size: .9rem;
+    }
+
+    .submenu:hover {
+        font-size: .9rem;
+        letter-spacing: .5px;
+    }
+    
+    .submenu-active {
+        font-size: .9rem;
+        letter-spacing: .5px;
+    }
+
+    .logo-home-cel {
+        max-width: 20%;
+        padding-bottom: 35px;
+    }
+
+    .logo-home-cel-texto {
+        max-width: 50%;
+        padding-bottom: 0px;
+        padding-left: 5px;
+        vertical-align: sub;
+    }
+
+    .boton-wh-cel {
+        bottom: 10%!important;
+    }
+
+    .p-notas {
+        padding-top: 45px;
+    }
+
+    .bg-quienes-somos {
+        background-image: url('../images/Fondo-Quienes-Somos.jpg');
+        background-position: 30% top;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .overflow-style {
+        overflow-y: auto!important;
+    }
+    .nav-link-menu-flotante {
+        padding-left: 25px!important;
+        padding-top: 0px!important;
+        padding-bottom: 5px!important;
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+    .carousel-item-cel {
+        min-height: 335px;
+    }
+
+    .container-f {
+        width: 80%!important;
+        padding-right: 15px;
+        padding-left: 35px!important;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .pl-750 {
+        padding-left: 110px;
+    }
+
+    .pl-20 {
+        padding-left: 110px;
+    }
+}
+
+@media screen and (max-width: 475px) {
+    .carousel-item-cel {
+        min-height: 300px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .carousel-item-inicio {
+        min-height: 110vh;
+    }
+
+    .carousel-item-cel {
+        min-height: 315px;
+    }
+
+    .container-f {
+        width: 80%!important;
+        padding-right: 15px;
+        padding-left: 35px!important;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .carousel-caption-inicio {
+        left: 18%!important;
+    }
+
+    .pl-750 {
+        padding-left: 105px;
+    }
+
+    .pl-20 {
+        padding-left: 105px;
+    }
+
+    .logo-home-cel {
+        max-width: 25%;
+        padding-bottom: 25px;
+    }
+
+    .logo-home-cel-texto {
+        max-width: 53%;
+    }
+
+    .slogan {
+        max-width: 55%;
+    }
+
+    .nav-item-home {
+        padding-bottom: 4px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .carousel-item-cel {
+        min-height: 285px!important;
+    }
+
+    .carousel-item-inicio {
+        min-height: 120vh!important;
+    }
+
+    .logo-instagram, .logo-facebook {
+        max-width: 9%;
+    }
+
+    .pl-750 {
+        padding-left: 95px;
+    }
+
+    .pl-20 {
+        padding-left: 95px;
+    }
+
+    .logo-home-cel {
+        max-width: 25%;
+        padding-bottom: 20px;
+    }
+    
+    .logo-home-cel-texto {
+        max-width: 53%;
+        padding-bottom: 0px;
+        padding-left: 5px;
+        vertical-align: sub;
+    }
+
+    .slogan {
+        max-width: 55%;
+        position: relative;
+        top: 25%;
+        left: 0%;
+        display: inline-block;
+    }
+}
+
+
+@media screen and (max-width: 375px) {
+    .carousel-item-inicio {
+        min-height: 115vh!important;
+    }
+
+    .carousel-item-cel {
+        min-height: 265px!important;
+    }
+
+    .text-carousel {
+        font-size: 0.85rem;
+    }
+
+    .carousel-caption-inicio {
+        left: 20%!important;
+    }
+
+    .logo-instagram, .logo-facebook {
+        max-width: 10%;
+    }
+
+    .pl-750 {
+        padding-left: 85px;
+    }
+
+    .pl-20 {
+        padding-left: 85px;
+    }
+
+    .logo-home-cel {
+        max-width: 25%;
+        padding-bottom: 25px;
+    }
+
+    .logo-home-cel-texto {
+        max-width: 55%;
+    }
+
+    .boton-wh-cel {
+        bottom: 10%!important;
+    }
+
+    .pl-home {
+        padding-top: 25px;
+    }
+}
+
+
+
+@media screen and (min-width: 992px) {
+    .texto-nosotros {
+        overflow-y: auto;
+        max-height: 310px;
+    }
+
+    .boton-wh-trat {
+        max-width: 65px;
+        position: absolute;
+        right: 10px;
+        top: 160px;
+    }
+
+    .boton-wh-serv {
+        max-width: 65px;
+        position: absolute;
+        right: 10px;
+        top: 158px;
+    }
+
+    .logo-instagram, .logo-facebook {
+        max-width: 4%;
+    }
+
+    .p-80 {
+        padding-top: 97px;
+        padding-bottom: 97px;
+    }
+
+    .p-100 {
+        padding-top: 70px;
+    }
+
+    .pl-755 {
+        padding-left: 0px;
+    }
+
+    .font-titulo-trat {
+        font-size: 5rem;
+    }
+
+    .boton-wh-notas {
+        max-width: 65px;
+        top: 200px;
+    }
+
+    .bg-servicios-pag {
+        background-image: url('../images/Fondo-Pagina-Servicios.jpg');
+        background-position: 50% 50%;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .slogan {
+        max-width: 315px;
+        position: absolute;
+        top: 30%;
+        left: 31%;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .texto-nosotros {
+        overflow-y: auto;
+        max-height: 390px;
+    }
+
+    .boton-wh-trat {
+        max-width: 65px;
+        position: absolute;
+        right: 10px;
+        top: 77px;
+    }
+
+    .boton-wh-serv {
+        max-width: 65px;
+        position: absolute;
+        right: 10px;
+        top: 77px;
+    }
+
+    .boton-wh-notas {
+        max-width: 65px;
+        top: 50px;
+    }
+
+    .logo-instagram, .logo-facebook {
+        max-width: 2.3%;
+    }
+
+    .p-80 {
+        padding-top: 116px;
+        padding-bottom: 115px;
+    }
+
+    .p-100 {
+        padding-top: 80px;
+    }
+
+    .pl-755 {
+        padding-left: 30px;
+    }
+
+    .p-trat {
+        padding-top: 70px;
+        padding-bottom: 0px;
+    }
+
+    .bg-servicios-pag {
+        background-image: url('../images/Fondo-Pagina-Servicios.jpg');
+        background-position: left;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .slogan {
+        max-width: 340px;
+        position: absolute;
+        top: 25%;
+        left: 35%;
+    }
+
+    .p-notas {
+        padding-top: 65px;
+    }
+
+    .boton-wh-notas {
+        max-width: 65px;
+        top: 10px;
+    }
+    
+}
+
+@media screen and (min-width: 1300px) {
+    .texto-nosotros {
+        overflow-y: auto;
+        max-height: 450px;
+    }
+
+    .pl-755 {
+        padding-left: 75px;
+    }
+
+    .texto-servicios {
+        overflow-y: auto;
+        max-height: 535px;
+        padding-right: 15px;
+    }
+
+    .p-trat {
+        padding-top: 65px;
+        padding-bottom: 0px;
+    }
+
+    .p-serv {
+        padding-top: 65px;
+        padding-bottom: 0px;
+    }
+
+    .boton-wh-serv {
+        max-width: 65px;
+        position: absolute;
+        right: 10px;
+        top: 77px;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+
+    .p-80 {
+        padding-top: 124px;
+        padding-bottom: 125px;
+    }
+
+    .texto-servicios {
+        overflow-y: auto;
+        max-height: 610px;
+        padding-right: 15px;
+    }
+
+    .p-trat {
+        padding-top: 105px;
+        padding-bottom: 0px;
+    }
+
+    .boton-wh-trat {
+        max-width: 65px;
+        position: absolute;
+        right: 10px;
+        top: 115px;
+    }
+
+    .p-serv {
+        padding-top: 85px;
+        padding-bottom: 0px;
+    }
+
+    .boton-wh-serv {
+        max-width: 65px;
+        position: absolute;
+        right: 10px;
+        top: 100px;
+    }
+}
